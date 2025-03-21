@@ -21,6 +21,15 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
-            <<include your coding and its corressponding output screen shots here>>
+          ![op1](image-1.png)
+          ![op2](image.png)
+          ![op3](image-2.png)
+          ![op4](image-3.png)
+          ![op5](image-4.png)
+          ![op6](image-5.png)
+          ![op7](image-6.png)
+          ![op8](image-7.png)
+          ![op9](image-8.png)
+          ![op10](image-9.png)
 # Result
-          <<include your Result here>>
+        Thus the given data is cleaned and outlayered in the given dataset successfully
